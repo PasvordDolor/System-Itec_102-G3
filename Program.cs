@@ -32,4 +32,4 @@ namespace RestaurantOrderSystem
                 Console.WriteLine("   " + FormatMoney(ParseSavedMoney(row[3])) + " x " + row[4]
                     + " = " + FormatMoney(ParseSavedMoney(row[5])));
             }
-     
+  
